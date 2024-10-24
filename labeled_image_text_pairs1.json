@@ -1,0 +1,68 @@
+[
+    {
+        "image": "flickr8k-images\\2513260012_03d33305cf.jpg",
+        "caption": [
+            "A black dog is running after a white dog in the snow .",
+            "Black dog chasing brown dog through snow",
+            "Two dogs chase each other across the snowy ground .",
+            "Two dogs play together in the snow .",
+            "Two dogs running through a low lying body of water ."
+        ],
+        "label": 1
+    },
+    {
+        "image": "flickr8k-images\\2513260012_03d33305cf.jpg",
+        "caption": [
+            "A brown dog in the snow has something hot pink in its mouth .",
+            "A brown dog in the snow holding a pink hat .",
+            "A brown dog is holding a pink shirt in the snow .",
+            "A dog is carrying something pink in its mouth while walking through the snow .",
+            "A dog with something pink in its mouth is looking forward ."
+        ],
+        "label": 0
+    },
+    {
+        "image": "flickr8k-images\\2903617548_d3e38d7f88.jpg",
+        "caption": [
+            "A little baby plays croquet .",
+            "A little girl plays croquet next to a truck .",
+            "The child is playing croquette by the truck .",
+            "The kid is in front of a car with a put and a ball .",
+            "The little boy is playing with a croquet hammer and ball beside the car ."
+        ],
+        "label": 1
+    },
+    {
+        "image": "flickr8k-images\\2903617548_d3e38d7f88.jpg",
+        "caption": [
+            "A brown dog in the snow has something hot pink in its mouth .",
+            "A brown dog in the snow holding a pink hat .",
+            "A brown dog is holding a pink shirt in the snow .",
+            "A dog is carrying something pink in its mouth while walking through the snow .",
+            "A dog with something pink in its mouth is looking forward ."
+        ],
+        "label": 0
+    },
+    {
+        "image": "flickr8k-images\\3338291921_fe7ae0c8f8.jpg",
+        "caption": [
+            "A brown dog in the snow has something hot pink in its mouth .",
+            "A brown dog in the snow holding a pink hat .",
+            "A brown dog is holding a pink shirt in the snow .",
+            "A dog is carrying something pink in its mouth while walking through the snow .",
+            "A dog with something pink in its mouth is looking forward ."
+        ],
+        "label": 1
+    },
+    {
+        "image": "flickr8k-images\\3338291921_fe7ae0c8f8.jpg",
+        "caption": [
+            "A little baby plays croquet .",
+            "A little girl plays croquet next to a truck .",
+            "The child is playing croquette by the truck .",
+            "The kid is in front of a car with a put and a ball .",
+            "The little boy is playing with a croquet hammer and ball beside the car ."
+        ],
+        "label": 0
+    }
+]
